@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600);
 @import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic);
 body {
   color: rgba(0, 0, 0, 0.81);
@@ -7,8 +7,14 @@ body {
 a {
   color: blue; }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: "Gentium Book Basic", serif; }
+
+h3 {
+  margin: 10px 0px; }
+
+p {
+  margin: 5px 0px; }
 
 .table {
   width: 100%;
