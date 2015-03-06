@@ -4,6 +4,9 @@ body {
   color: rgba(0, 0, 0, 0.81);
   font-family: "Open Sans", sans-serif; }
 
+a {
+  color: blue; }
+
 h1, h2 {
   font-family: "Gentium Book Basic", serif; }
 
@@ -23,3 +26,6 @@ h1, h2 {
 .table-extra-spacing td {
   padding-top: 30px;
   padding-bottom: 30px; }
+
+.chemie {
+  color: #BA68C8; }
