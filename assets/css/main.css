@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic);
+body {
+  color: rgba(0, 0, 0, 0.81);
+  font-family: "Open Sans", sans-serif; }
+
+h1, h2 {
+  font-family: "Gentium Book Basic", serif; }
+
+.table {
+  width: 100%;
+  border-collapse: collapse; }
+
+.table th {
+  text-align: left; }
+
+.table td {
+  border-top: 1px solid grey; }
+
+.table .table-divider-bottom {
+  border-bottom: 3px solid grey; }
+
+.table-extra-spacing td {
+  padding-top: 30px;
+  padding-bottom: 30px; }
